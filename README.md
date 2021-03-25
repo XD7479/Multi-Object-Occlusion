@@ -54,7 +54,7 @@ python3 eval_meanIoU.py
 ### Segmentation Demo
 
 
-<img src="images/visual_seg_synth.jpg" width="1000" height="330" alt="demo"/>
+<img src="images/visual_seg_synth.jpg" width="1000" height="250" alt="demo"/>
 
 ### Citation
 
