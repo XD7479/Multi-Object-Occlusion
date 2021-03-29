@@ -1,4 +1,4 @@
-# [Robust-Instance-Segmentation-through-Reasoning-about-Multi-Object-Occlusion](https://arxiv.org/abs/2012.02107)
+# [Robust Instance Segmentation through Reasoning about Multi-Object Occlusion](https://arxiv.org/abs/2012.02107)
 
 
 <img src="images/figure_1.jpg" width="760" height="440" alt="figure1"/>
@@ -68,5 +68,9 @@ python3 eval_meanIoU.py
       primaryClass={cs.CV}
 }
 ```
+
+### Contact
+If you have any questions you can contact Xiaoding Yuan by xiaodingyuan.tj@gmail.com.
+
 
 
