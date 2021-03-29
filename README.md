@@ -62,10 +62,10 @@ python3 eval_meanIoU.py
 @misc{yuan2021robust,
       title={Robust Instance Segmentation through Reasoning about Multi-Object Occlusion}, 
       author={Xiaoding Yuan and Adam Kortylewski and Yihong Sun and Alan Yuille},
-      year={2021},
-      eprint={2012.02107},
-      archivePrefix={arXiv},
-      primaryClass={cs.CV}
+      booktitle = {Proceedings IEEE Conf. on Computer Vision and Pattern Recognition (CVPR)},
+      month = jun,
+      year = {2021},
+      month_numeric = {6}
 }
 ```
 
