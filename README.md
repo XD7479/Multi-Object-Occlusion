@@ -1,4 +1,4 @@
-# [Robust Instance Segmentation through Reasoning about Multi-Object Occlusion](https://arxiv.org/abs/2012.02107)
+# [Robust Instance Segmentation through Reasoning about Multi-Object Occlusion [CVPR 2021]](https://arxiv.org/abs/2012.02107)
 
 
 <img src="images/figure_1.jpg" width="760" height="440" alt="figure1"/>
