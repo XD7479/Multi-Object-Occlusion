@@ -13,6 +13,9 @@ We also introduce an **Occlusion Challenge** dataset generated from real-world s
 
 
 ------------
+### NOTICE
+dataset links and model will be released in a few days. Update: 18 June
+
 
 ### Requirments
 The code uses Python 3.6 and it is tested on PyTorch GPU version 1.2, with CUDA-10.0 and cuDNN-7.5.
